@@ -1,10 +1,10 @@
 import ollama
 import glob, os
 
-# Replace with your image path
+
 image_path = "/Users/srinathmurali/Desktop/Screenshot 2025-06-01 at 11.25.34 PM.png"
 
-# Verify the image file exists
+
 if not os.path.exists(image_path):
     print(f"Error: Image file not found at {image_path}")
     exit(1)
@@ -15,7 +15,7 @@ if not os.path.isfile(image_path):
 
 print(f"Using image: {image_path}")
 
-# Load the image and convert to base64
+
 LEETCODE_ANALYSIS_PROMPT = (
     "You are an expert LeetCode interview coach analyzing a screenshot of someone solving a coding problem. "
     "Your goal is to help them solve the problem efficiently and learn from the process.\n\n"
