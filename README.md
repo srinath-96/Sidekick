@@ -3,7 +3,7 @@
 
 Idea is pretty simple: Take screenshots of your screen send it to an LLM and get responses based on what it sees. Objective is to replicate a certain Application. Trying to recreate Cluely to understand how to tear it apart :!!!!!
 working on linking it up with ollama for you open source baddies. (P.S. A better looking ReadME file will be written soon. I am a little caught up working on the project :))
-
+DISCLAIMER: THIS IS NOT A CHEATING TOOL AND I WILL NOT BE RELEASING AN INVISIBLE MODE. 
 Current Demo: Everything in it including the system prompt is subject to change, The Main purpose of this tool remains TO be a personalized AI assistant with completely local LLMs. 
 
 https://github.com/user-attachments/assets/60b3c47c-2d09-4fed-84ad-27491f5ba557
