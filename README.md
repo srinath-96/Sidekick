@@ -8,7 +8,7 @@ Current Demo: Everything in it including the system prompt is subject to change,
 
 https://github.com/user-attachments/assets/60b3c47c-2d09-4fed-84ad-27491f5ba557
 
-
+I MEANT VOICECHAT NOT VIDEOCHAT*
 
 CURRENT TECH STACK:
 Electron and Node Js for frontend
