@@ -4,8 +4,11 @@
 Idea is pretty simple: Take screenshots of your screen send it to an LLM and get responses based on what it sees. Objective is to replicate a certain Application. Trying to recreate Cluely to understand how to tear it apart :!!!!!
 working on linking it up with ollama for you open source baddies. (P.S. A better looking ReadME file will be written soon. I am a little caught up working on the project :))
 
-IT WORKS!!!!! AUDIO FEATURES ARE A BIT UNRELIABLE RIGHT NOW BUT IT WORKS. 
-<img width="1417" alt="image" src="https://github.com/user-attachments/assets/f6eb51a6-e2a2-400e-b794-3907cb209323" />
+Current Demo: Everything in it including the system prompt is subject to change, The Main purpose of this tool remains TO be a personalized AI assistant with completely local LLMs. 
+
+https://github.com/user-attachments/assets/60b3c47c-2d09-4fed-84ad-27491f5ba557
+
+
 
 CURRENT TECH STACK:
 Electron and Node Js for frontend
